@@ -1,2 +1,5 @@
 # Ethical AI testing & evaluation frameworks : existing literature
-A repository for ethical AI evaluation and testing
+We catalogue ethical AI testing and evaluation frameworks from scientific literature in human health research. 
+
+
+
