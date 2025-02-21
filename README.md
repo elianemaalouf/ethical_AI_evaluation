@@ -3,7 +3,7 @@ We catalogue ethical AI testing and evaluation frameworks from scientific litera
 
 | **Name** | **Reference** | **Description** | **Relevance**|
 |:---------|:--------------|:----------------|:-------------|
-|APPRAISE-AI|https://doi.org/10.1001/jamanetworkopen.2023.35377|
+|APPRAISE-AI|https://doi.org/10.1001/jamanetworkopen.2023.35377|The primary question of the paper is to develop a tool that evaluates the methodological and reporting quality of AI prediction models specifically for clinical decision support. It aims to address the lack of a quantitative assessment tool that can evaluate the robustness and readiness of AI models for clinical use, particularly when comparing models addressing the same clinical question. The tool is designed to provide a quantitative method for evaluating the quality of AI studies across six domains: clinical relevance, data quality, methodological conduct, robustness of results, reporting quality, and reproducibility.|systematic reviews|
 |CLAIM|||imaging|
 |CONSORT-AI|||clinical trials|
 |DECIDE-AI|||clinical evaluation (early stage)|
