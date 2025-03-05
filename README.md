@@ -11,7 +11,7 @@ We catalogue ethical AI testing and evaluation frameworks from scientific litera
 |METRIC|https://doi.org/10.1038/s41746-024-01196-4|Research question ‘Along which characteristics should data quality be evaluated when employing a dataset for trustworthy AI in medicine?’. A specialised data quality framework for medical training data comprising 15 awareness dimensions, along which developers of medical ML applications should investigate the content of a dataset. The dimensions are divided into 6 clusters: measurement process, timeliness, representativeness, informativeness, consistency, data management. No data governance or management. no specific metrics provided.| data quality evaluation|
 |Model info sheet|https://doi.org/10.1016/j.patter.2023.100804|To assess potential risk of data leakage from 8 identified types. Model info sheets are the tools to document this assessment and are treated as the researchers arguments and claims on : clean train-test separation; each feature or groups of features legitimacy for use; test set distribution fitting for the scientific interest investigated (generalizability- external validity)|data leakage, reproducibility, reporting|
 |PRISMA-AI|https://doi.org/10.1038/s41591-022-02139-w|(under construction)|systematic reviews, AI-based research appraisal|
-|PROBAST-AI|||prediction model, bias|
+|PROBAST-AI|https://doi.org/10.1136/bmjopen-2020-048008|(under construction) Extension to Prediction model Risk Of Bias ASsessment Tool PROBAST 2015. Bias assessment is done on four dimensions : participants, predictors, outcome and analysis.|prediction model, bias|
 |QUADAS-AI|||diagnostic tests, quality assessment|
 |STARD-AI|||diagnostic accuracy|
 |SPIRIT-AI|||clinical trials|
