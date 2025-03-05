@@ -13,7 +13,7 @@ We catalogue ethical AI testing and evaluation frameworks from scientific litera
 |PRISMA-AI|https://doi.org/10.1038/s41591-022-02139-w|(under construction)|systematic reviews, AI-based research appraisal|
 |PROBAST-AI|https://doi.org/10.1136/bmjopen-2020-048008|(under construction) Extension to Prediction model Risk Of Bias ASsessment Tool PROBAST 2015. Bias assessment is done on four dimensions : participants, predictors, outcome and analysis.|prediction model, bias|
 |QUADAS-AI|||diagnostic tests, quality assessment|
-|STARD-AI|||diagnostic accuracy|
+|STARD-AI|https://doi.org/10.1136/bmjopen-2020-047709|(under construction) Extension to Standards for Reporting of Diagnostic Accuracy Study 2015|diagnostic accuracy|
 |SPIRIT-AI|||clinical trials|
 |TRIPOD-AI|https://doi.org/10.1136/bmj.q902|Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis. |prediciton model (diagnosis, prognosis)|
 |TRIPOD-LLM|https://doi.org/10.1038/s41591-024-03425-5|Extension to TRIPOD-AI to further account for Large Language Models specificities in terms of training, fintuning, evaluation and tasks|prediction models based on LLM|
