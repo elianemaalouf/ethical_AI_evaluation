@@ -1,4 +1,4 @@
-# Ethical AI evaluation & reporting frameworks : existing literature in health research
+# Ethical health-AI evaluation & reporting frameworks : existing literature in health research
 We catalogue ethical AI testing and evaluation frameworks from scientific literature in human health research. This is a non-exshaustive list and is being continuously updated.  
 
 | **Name** | **Reference** | **Description** | **Relevance**|
