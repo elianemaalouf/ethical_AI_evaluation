@@ -30,4 +30,29 @@ To read the full analysis, check the full [Policy Brief document](https://github
 Maalouf E., Le Pogam M.-A., Cotofrei P. (2025). Quality & risk management of ethical AI use in human health research. Swiss Learning Health System. 
 
 
+# A catalog of health-AI evaluation & reporting frameworks : existing literature in health research
+This is a non-exshaustive list and is being continuously updated.  
+
+| **Name** | **Reference** | **Description** | **Relevance**|
+|:---------|:--------------|:----------------|:-------------|
+|APPRAISE-AI|https://doi.org/10.1001/jamanetworkopen.2023.35377|The primary question of the paper is to develop a tool that evaluates the methodological and reporting quality of AI prediction models specifically for clinical decision support. It aims to address the lack of a quantitative assessment tool that can evaluate the robustness and readiness of AI models for clinical use, particularly when comparing models addressing the same clinical question. The tool is designed to provide a quantitative method for evaluating the quality of AI studies across six domains: clinical relevance, data quality, methodological conduct, robustness of results, reporting quality, and reproducibility.|systematic reviews, AI-based research appraisal|
+|CONSORT-AI|https://doi.org/10.1038/s41591-020-1034-x||clinical trials, standardized reporting|
+|DECIDE-AI|||clinical evaluation (early stage), standardized reporting|
+|justEFAB|https://doi.org/10.1145/3593013.3594096|Justice, Equity, Fairness, and Anti-Bias (JustEFAB) guideline intended to support the design, testing, validation, and clinical evaluation of ML models with respect to algorithmic fairness, taking into account the sociotechnical context where the models are used and the model integration in medical ethics. ML lifecycle bias identification and mitigation|bias, fairness, ethical-design|
+|ML checklist|https://www.nature.com/documents/machine-learning-checklist.pdf|checklist questions to join to new submissions on works integrating AI models to assess the level of reproducibility/replicability: availability of codes, datasets, etc.|reproducibility|
+|METRIC|https://doi.org/10.1038/s41746-024-01196-4|Research question ‘Along which characteristics should data quality be evaluated when employing a dataset for trustworthy AI in medicine?’. A specialised data quality framework for medical training data comprising 15 awareness dimensions, along which developers of medical ML applications should investigate the content of a dataset. The dimensions are divided into 6 clusters: measurement process, timeliness, representativeness, informativeness, consistency, data management. No data governance or management. no specific metrics provided.| data quality evaluation|
+|MI-CLAIM|https://doi.org/10.1038/s41591-020-1041-y|minimum information about clinical artificial intelligence modeling.Structured in six parts: study design, separation of data into partitions for model training and model testing, optimization and final model selection, performance evaluation, model examination, reproducible pipeline|imaging|
+|Model info sheet|https://doi.org/10.1016/j.patter.2023.100804|To assess potential risk of data leakage from 8 identified types. Model info sheets are the tools to document this assessment and are treated as the researchers arguments and claims on : clean train-test separation; each feature or groups of features legitimacy for use; test set distribution fitting for the scientific interest investigated (generalizability- external validity)|data leakage, reproducibility|
+|PRISMA-AI|https://doi.org/10.1038/s41591-022-02139-w|(under construction)|systematic reviews, AI-based research appraisal, standardized reporting|
+|PROBAST-AI|https://doi.org/10.1136/bmjopen-2020-048008|(under construction) Extension to Prediction model Risk Of Bias ASsessment Tool PROBAST 2015. Bias assessment is done on four dimensions : participants, predictors, outcome and analysis.|prediction model, bias, standardized reporting|
+|QUADAS-AI|||diagnostic tests, quality assessment|
+|STARD-AI|https://doi.org/10.1136/bmjopen-2020-047709|(under construction) Extension to Standards for Reporting of Diagnostic Accuracy Study 2015|diagnostic accuracy|
+|SPIRIT-AI|||clinical trials, standardized reporting|
+|TRIPOD-AI|https://doi.org/10.1136/bmj.q902|Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis. |prediciton model (diagnosis, prognosis), standardized reporting|
+|TRIPOD-LLM|https://doi.org/10.1038/s41591-024-03425-5|Extension to TRIPOD-AI to further account for Large Language Models specificities in terms of training, fintuning, evaluation and tasks|prediction models based on LLM, standardized reporting|
+
+
+
+
+
 
