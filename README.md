@@ -1,5 +1,5 @@
 # AI Governance and Oversight
-# Qaulity & risk management of ethical AI use in human health research
+# Quality & risk management of ethical AI use in human health research
 
 ## Background and Context
 
