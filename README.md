@@ -25,7 +25,7 @@ Instead of proposing new frameworks, the focus should be on operationalizing eth
 The current transitory phase of AI regulation in Switzerland can be challenging. A proactive approach to ethical considerations is strongly advised, with a shared responsibility among all stakeholders. Main barriers to break include **inefficient communication/coordination between stakeholders, the regulatory transitory period, and a lack of clarity on who is responsible for AI system validation**. To counter these challenges, initiatives could include early stakeholder consultations in permanent forums, integrating AI education into relevant curricula, ethics committees proposing recommended documentation for ethical-AI in research protocols, organizations providing support through data scientists and quality analysts, and a shared responsibility model for system validation involving development and operational teams with ongoing monitoring and audits.
 
 ## Policy brief document
-To read the full analysis, check the full [Policy Brief document](https://github.com/elianemaalouf/ethical_AI_evaluation/blob/main/ethicalHealthAI_PB_2025.pdf). 
+To read the full analysis, check the full [Policy Brief document](https://github.com/elianemaalouf/ethical_AI_evaluation/blob/main/ethicalHealthAI_PB_092025.pdf). 
 
 ## Suggested citation 
 Maalouf E., Le Pogam M.-A., Cotofrei P. (2025). Quality & risk management of ethical AI use in human health research. Swiss Learning Health System. 
